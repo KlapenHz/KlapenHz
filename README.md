@@ -1,4 +1,5 @@
 ### Hi there 👋
+Below my weekly stats :)
 
 <!--START_SECTION:waka-->
 
