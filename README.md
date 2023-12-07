@@ -4,11 +4,13 @@ Below my weekly stats :)
 <!--START_SECTION:waka-->
 
 ```txt
-Lua              1 hr 56 mins    ███████████░░░░░░░░░░░░░░   44.65 %
-Go               1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   31.45 %
-Vim Script       51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-Python           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+From: 03 November 2023 - To: 06 December 2023
+
+Lua              3 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+conf             2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Nix              2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Vim Script       2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+norg             1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
 ```
 
 <!--END_SECTION:waka-->
