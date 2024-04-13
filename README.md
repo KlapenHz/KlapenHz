@@ -4,15 +4,15 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 08 April 2024
+From: 03 November 2023 - To: 11 April 2024
 
 Total Time: 35 hrs 40 mins
 
-norg             8 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+norg             8 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
 Markdown         4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
 Lua              3 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 conf             3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-Python           2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Python           2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 Nix              2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 Vim Script       2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 jsonc            1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
