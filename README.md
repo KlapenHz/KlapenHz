@@ -4,20 +4,20 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 12 April 2024
+From: 03 November 2023 - To: 14 April 2024
 
-Total Time: 36 hrs 54 mins
+Total Time: 37 hrs 18 mins
 
-norg             9 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-Markdown         4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-Lua              3 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-conf             3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Python           2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Nix              2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Vim Script       2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-jsonc            1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-CSS              1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-YAML             1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+norg             9 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+Markdown         4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Lua              3 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+conf             3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Python           2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Nix              2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Vim Script       2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+YAML             1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+jsonc            1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+CSS              1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
