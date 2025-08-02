@@ -4,20 +4,20 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 30 July 2025
+From: 03 November 2023 - To: 31 July 2025
 
-Total Time: 103 hrs 4 mins
+Total Time: 103 hrs 7 mins
 
-norg             24 hrs 41 mins  ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-YAML             22 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Text             11 hrs 57 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+norg             24 hrs 41 mins  ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+YAML             22 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Text             12 hrs          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
 Lua              10 hrs 5 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
 Python           9 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
 conf             5 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 Markdown         5 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 Vim Script       3 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 Nix              2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-jsonc            1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+jsonc            1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
