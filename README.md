@@ -4,16 +4,16 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 29 November 2025
+From: 03 November 2023 - To: 30 November 2025
 
-Total Time: 192 hrs 58 mins
+Total Time: 193 hrs 27 mins
 
-norg                       53 hrs 43 mins  ███████░░░░░░░░░░░░░░░░░░   27.59 %
-Python                     38 hrs 42 mins  █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-YAML                       27 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Text                       25 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Lua                        10 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Markdown                   10 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+norg                       53 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Python                     38 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+YAML                       27 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Text                       25 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Lua                        10 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown                   10 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 conf                       5 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 Vim Script                 3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 Nix                        2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
