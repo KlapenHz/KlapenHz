@@ -4,7 +4,7 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 21 March 2026
+From: 03 November 2023 - To: 22 March 2026
 
 Total Time: 280 hrs 36 mins
 
