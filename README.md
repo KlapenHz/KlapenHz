@@ -4,18 +4,18 @@ Below are some of my statistics :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 05 April 2026
+From: 03 November 2023 - To: 06 April 2026
 
-Total Time: 283 hrs 42 mins
+Total Time: 283 hrs 53 mins
 
-norg                       65 hrs 29 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Python                     57 hrs 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Text                       36 hrs 30 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-YAML                       29 hrs 42 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-JavaScript                 25 hrs 46 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-TypeScript                 17 hrs 12 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Markdown                   11 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Lua                        10 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+norg                       65 hrs 29 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Python                     57 hrs 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Text                       36 hrs 41 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+YAML                       29 hrs 42 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+JavaScript                 25 hrs 46 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+TypeScript                 17 hrs 12 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown                   11 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Lua                        10 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 conf                       5 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 Vim Script                 3 hrs 55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
